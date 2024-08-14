@@ -1,3 +1,6 @@
 ini hanya latihan
 masih latihan
 saya menambahkan teks ini di branch-baru
+ini satu
+ini dua
+ini tiga
